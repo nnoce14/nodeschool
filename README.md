@@ -1,6 +1,6 @@
 # nodeschool
 
-Working through the various workshops that teach different aspects of [Node.js](https://nodejs.org/en/)
+Working through the various workshops that teach different aspects of <a href="https://nodejs.org/en/" target="_blank">node.js</a>
 
-Check it out using this [link](https://nodeschool.io/#workshopper-list), it's pretty cool. Just need an IDE and everything
+Check  out the Nodeschool website <a href="https://nodeschool.io/#workshopper-list" target-"_blank">here</a>, it's pretty cool. Just need an IDE and everything
 is done in the terminal. 
