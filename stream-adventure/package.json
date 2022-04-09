@@ -2,6 +2,7 @@
   "dependencies": {
     "concat-stream": "^2.0.0",
     "split2": "^4.1.0",
+    "tar": "^6.1.11",
     "through2": "^4.0.2",
     "trumpet": "^1.7.2",
     "ws": "^8.5.0"
