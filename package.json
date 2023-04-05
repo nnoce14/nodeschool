@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "how-to-npm": "^2.5.1",
     "stream-combiner": "^0.2.2"
   }
 }
